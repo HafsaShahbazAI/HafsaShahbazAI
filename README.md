@@ -32,11 +32,12 @@ I am a finance professional leveraging AI, Machine Learning, and Data Science to
 ### 🤝 Connect with me 🤝
 
 
-<a href="https:/https://www.linkedin.com/in/hafsa-s-a39699203//"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
+<a href="https://www.linkedin.com/in/hafsa-s-a39699203//"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Hafsa | LinkedIn" width="170px"/></a>
 
 
 
-- 💬 If you have any project collaboration request, please do not hesitate to reach out to me!.
+- 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
+
   
 </a>
 </p>
