@@ -76,7 +76,7 @@ I am a finance professional leveraging AI, Machine Learning, and Data Science to
 <hr>
 
 
-## 📈 GitHub Stats 
+<!--## 📈 GitHub Stats 
 
 <p ">
 <img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar2704"/>
@@ -87,7 +87,7 @@ I am a finance professional leveraging AI, Machine Learning, and Data Science to
 </p>
 
 <hr>
-
+-->
 
 ### 🧠 Featured Projects
 
